@@ -14,7 +14,7 @@ The Tour de France is the most elite cycling race that happens every year in Jul
 
 # The Race
 
-<aside class="notes>
+<aside class="notes">
 The Tour consists of three sub races, as well as the overall general classification (or GC) race. The three sub-races include the Mountains classification (for climbers), the Points classifications (for sprinters), and the Young Riders classification. 
 </aside>
 
