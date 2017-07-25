@@ -56,4 +56,9 @@ The Polka Dot Jersey is given to the leader of the Mountains classification. The
 The White Jersey is worn by the leader of the Young Riders classification. The Young Riders race opperates the exact same as the GC race, just the contenders have to be under the age of 26, which may see pretty old for sports. However, cyclist do not normally peak until around the age of 30 
 </aside>
 
+# Stages
+
+<aside class="notes">
+The Tour Consists of 23 days. That include 21 days of riding stages, and 2 rest days. There are three main stage types. Mountain/Hilly, Flat, Time Trials. Mountain and Hilly stages are around 120-170 km and can consist of ruthless climbs that can get up to 20% incline. The flat stages are around 175-225 km and will typically end with a large bunch sprint with most of the overall contenders finishing together. Time Trials are much shorter stages and each individual rider rides seperately from everyone else. Riders are are on very areodynamic bikes that look very similar to triatholon bikes. These stages consist around 15-30 km and are done as fast as possible.
+</aside>
 
