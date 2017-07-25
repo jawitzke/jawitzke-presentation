@@ -29,7 +29,7 @@ The Tour consists of three sub races, as well as the overall general classificat
 ```
 
 <aside class="notes">
-
+The Yellow Jersy is given to the leader of the overall GC race. It is a huge honor to wear the yellow jersey for even just a day. If you are watching the race, the bright yellow jersey is the person to look out for!The leader of the General Classification is determined by Overall time from start to finish of each stage added up.
 </aside>
 
 # Green Jersey
@@ -41,11 +41,19 @@ git push
 ```
 
 <aside class="notes">
-Reveal is very powerful, so try exploring some of its features, but be careful not to make any changes that you can't roll back. In other words, make a change, use git to add, commit, and push. Then test. If you don't like the change, you can always roll it back. If you do this, then you will be able to fix things easily if you break something by reverting your last commit. If you are testing locally, you don't have to push your changes. Just commit them. You will still be able to roll them back using the git revert command.
+The Green Jersey is given to the leader of the points classification. The points classificiation is based off of points where the riders sprint at certain checkpoints and at the end of each stage. Flatter stages frequently have more points available to be earned for the points classification. (add video as example)
 <\aside>
 
 # Polka Dot Jersey
 
 <aside class="notes">
-Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations. 
+The Polka Dot Jersey is given to the leader of the Mountains classification. The Mountains Classification is based off of points earned by getting over the climbs and mountain stages the quickest. The more difficult the mountain climbed the more points available to be earned towards winning the mountains classification.  
 </aside>
+
+# White Dot Jersey
+
+<aside class="notes">
+The White Jersey is worn by the leader of the Young Riders classification. The Young Riders race opperates the exact same as the GC race, just the contenders have to be under the age of 26, which may see pretty old for sports. However, cyclist do not normally peak until around the age of 30 
+</aside>
+
+
