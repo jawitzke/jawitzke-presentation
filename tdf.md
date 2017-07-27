@@ -2,8 +2,9 @@
 % Jackson Witzke
 % 31 July, 2017
 
-# Tour de France
+# The Tour de France
 
+The ultimate cycling race
 ![alt text](images/tdf.jpg)
 
 <aside class="notes">
@@ -12,15 +13,15 @@ The Tour de France is the most elite cycling race that happens every year in Jul
 
 # The Race
 
+Vroom Vroom
 <aside class="notes">
 The Tour consists of three sub races, as well as the overall general classification (or GC) race. The three sub-races include the Mountains classification (for climbers), the Points classifications (for sprinters), and the Young Riders classification. 
 </aside>
 
 # Yellow Jersey
 
-![alt text](images/Le_Tour_de_France_2015_Stage_21_(19992420998).jpg)
-
 The leader of the race!
+![alt text](images/Le_Tour_de_France_2015_Stage_21_(19992420998).jpg)
 
 <aside class="notes">
 The Yellow Jersy is given to the leader of the overall GC race. It is a huge honor to wear the yellow jersey for even just a day. If you are watching the race, the bright yellow jersey is the person to look out for!The leader of the General Classification is determined by Overall time from start to finish of each stage added up.
@@ -28,6 +29,7 @@ The Yellow Jersy is given to the leader of the overall GC race. It is a huge hon
 
 # Green Jersey
 
+Sprinters
 ![alt text](images/Tour_de_France_2016,_sagan_(28595458545).jpg)
 
 <aside class="notes">
@@ -36,6 +38,7 @@ The Green Jersey is given to the leader of the points classification. The points
 
 # Polka Dot Jersey
 
+King of the Mountains
 ![alt text](images/Tour_de_France_2013,_bollentrui_christophe_riblon_(14869792235).jpg)
 
 <aside class="notes">
@@ -44,6 +47,7 @@ The Polka Dot Jersey is given to the leader of the Mountains classification. The
 
 # White Jersey
 
+Young Riders
 ![alt text](images/Nairo_Quintana,_TDF_2015,_\303\251tape_13,_Montgiscard.jpg)
 <aside class="notes">
 The White Jersey is worn by the leader of the Young Riders classification. The Young Riders race opperates the exact same as the GC race, just the contenders have to be under the age of 26, which may see pretty old for sports. However, cyclist do not normally peak until around the age of 30 
@@ -51,7 +55,9 @@ The White Jersey is worn by the leader of the Young Riders classification. The Y
 
 # Stages
 
+Mountains, flats, and time trials
 ![alt text](images/Profile_stage_18_Tour_de_France_2015.png)
+
 <aside class="notes">
 The Tour Consists of 23 days. That include 21 days of riding stages, and 2 rest days. There are three main stage types. Mountain/Hilly, Flat, Time Trials. Mountain and Hilly stages are around 120-170 km and can consist of ruthless climbs that can get up to 20% incline. The flat stages are around 175-225 km and will typically end with a large bunch sprint with most of the overall contenders finishing together. Time Trials are much shorter stages and each individual rider rides seperately from everyone else. Riders are are on very areodynamic bikes that look very similar to triatholon bikes. These stages consist around 15-30 km and are done as fast as possible.
 </aside>
